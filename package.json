@@ -1,0 +1,7 @@
+{
+  "name": "yarn_bootsie_test",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
